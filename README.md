@@ -1,16 +1,19 @@
 # Selenium Automation Bundle
 
-Selenium Automation Bundle is a seed project for Quality Assurance engineers to help them start designing, writing,
-and running automated data-driven tests with Selenide, TestNG, and Allure.
+Selenium Automation Bundle est un projet de démarrage pour les ingénieurs d'assurance qualité,
+pour les aider à commencer à concevoir, écrire, et exécuter des tests automatisés. Tests basés
+sur les données avec Selenium ide, TestNG et Allure.
 
-## Features
+## Fonctionalitées
 
- - Automatic initialization of Selenium WebDriver for Chrome, Firefox, Edge, and Safari
- - Structured test reports with detailed logs of test execution generated with the help of Allure
- - Integrated Selenide for handling dynamic behavior on your pages and for writing less code in page objects
- - Custom annotations for accessing and mapping test data stored in a tree-like structure to streamline data-driven testing
- - A simple mechanism to add your own CLI commands for running tests or handling test data
- - Groovy support to write concise test classes and page objects
+ - Initialisation automatique de Selenium WebDriver pour Chrome, Firefox, Edge et Safari.
+ - Rapports de test structurés avec des journaux détaillés de l'exécution des tests générés à l'aide d'Allure.
+ - Selenium ide intégré pour gérer le comportement dynamique sur vos pages et pour écrire moins de code dans les objets de page.
+ - Annotations personnalisées, accés simple, disposition ou re-disposition rapide des données de tests, stockage en structure arborescente rationalisées,
+   tests basés sur les données.
+ - Un mécanisme simple, rapide et efficace vous permets d'ajouter vos propres commandes CLI,
+   et exécuter les tests nécessaires ou gérer simplement les données de test.
+ - Prise en charge de Groovy pour écrire des classes de test et des objets de page concis.
 
 ## Technologies
 
